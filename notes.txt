@@ -1,3 +1,5 @@
 I am learning Git and Github.
 
 I am changing my file.
+
+Each commit saves a checkpoint.
